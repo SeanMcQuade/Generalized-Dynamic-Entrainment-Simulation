@@ -1,7 +1,8 @@
 %% Written by Sean McQuade and Zheming An on July 7th 2017.  
 % Model attributed to Benedetto Piccoli and Kwangwon Lee. This code was
-% implemented to produce 280 trajectories in the paper titled: "Non-dogmatic 
-% relationships between period and phase of entrainment"
+% implemented to produce 280 trajectories in the paper titled: 
+%"Experimental and Mathematical Analyses Relating Circadian Period 
+% and Phase of Entrainment in Neurospora crassa "
 
 %%parameters
 
